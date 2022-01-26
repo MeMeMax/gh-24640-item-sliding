@@ -1,0 +1,7 @@
+{
+  "name": "gh-24640-item-sliding",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
